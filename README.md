@@ -3,7 +3,7 @@ Developed the Facebook Homepage.
 
 Link to project: https://fbhome.netlify.com/
 
-![Alt Text](images/Facebook Homepage.png)
+![Alt Text](https://github.com/Dionne-Rodriguez/Facebook_homePage/blob/master/images/Facebook%20Homepage.png)
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, Framework of choice
